@@ -22,8 +22,6 @@ const useHttp = () => {
                     headers: headers,
                     data: body,
                 });
-                console.log(response,
-                    response.status)
                 let responseOK =
                     response &&
                     response.status === 200;
