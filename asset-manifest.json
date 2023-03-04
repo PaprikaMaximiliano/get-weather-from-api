@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/get-weather-from-api/static/css/main.c2cab247.css",
+    "main.js": "/get-weather-from-api/static/js/main.be667c5b.js",
+    "static/media/error.gif": "/get-weather-from-api/static/media/error.42292aa12b6bc303ce99.gif",
+    "index.html": "/get-weather-from-api/index.html",
+    "main.c2cab247.css.map": "/get-weather-from-api/static/css/main.c2cab247.css.map",
+    "main.be667c5b.js.map": "/get-weather-from-api/static/js/main.be667c5b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2cab247.css",
+    "static/js/main.be667c5b.js"
+  ]
+}
